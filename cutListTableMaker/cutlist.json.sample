@@ -1,0 +1,192 @@
+[
+  {
+    "id": 5,
+    "width": 560,
+    "height": 2400,
+    "count": 2,
+    "material": null,
+    "enabled": true,
+    "orientation": 2,
+    "label": "Side",
+    "edge": {
+      "top": null,
+      "left": "1mm maidenwood edging",
+      "bottom": null,
+      "right": null
+    },
+    "$$hashKey": "uiGrid-01EP"
+  },
+  {
+    "id": 1,
+    "width": 560,
+    "height": 868,
+    "count": 2,
+    "material": null,
+    "enabled": true,
+    "orientation": 1,
+    "label": "Top and Bottom",
+    "edge": {
+      "top": null,
+      "left": "1mm maidenwood edging",
+      "bottom": null,
+      "right": null
+    },
+    "$$hashKey": "uiGrid-01ER"
+  },
+  {
+    "id": 2,
+    "width": 100,
+    "height": 1050,
+    "count": 1,
+    "material": null,
+    "enabled": true,
+    "orientation": 1,
+    "label": "Bottom Panel",
+    "edge": { "top": null, "left": null, "bottom": null, "right": null },
+    "$$hashKey": "uiGrid-01ET"
+  },
+  {
+    "id": 3,
+    "width": 100,
+    "height": 510,
+    "count": 1,
+    "material": null,
+    "enabled": true,
+    "orientation": 1,
+    "label": "Bottom Panel",
+    "edge": { "top": null, "left": null, "bottom": null, "right": null },
+    "$$hashKey": "uiGrid-01EV"
+  },
+  {
+    "id": 4,
+    "width": 200,
+    "height": 2400,
+    "count": 3,
+    "material": null,
+    "enabled": true,
+    "orientation": 2,
+    "label": "Bookshelf Side",
+    "edge": {
+      "top": null,
+      "left": "1mm maidenwood edging",
+      "bottom": null,
+      "right": null
+    },
+    "$$hashKey": "uiGrid-01EX"
+  },
+  {
+    "id": 6,
+    "width": 200,
+    "height": 512,
+    "count": 10,
+    "material": null,
+    "enabled": true,
+    "orientation": 1,
+    "label": "Book Shelves",
+    "edge": {
+      "top": null,
+      "left": "1mm maidenwood edging",
+      "bottom": null,
+      "right": null
+    },
+    "$$hashKey": "uiGrid-01EZ"
+  },
+  {
+    "id": 9,
+    "width": 146,
+    "height": 404,
+    "count": 4,
+    "material": null,
+    "enabled": true,
+    "orientation": 1,
+    "label": "Drawer Front",
+    "edge": {
+      "top": "2mm maidenwood edging",
+      "left": "2mm maidenwood edging",
+      "bottom": "2mm maidenwood edging",
+      "right": "2mm maidenwood edging"
+    },
+    "$$hashKey": "uiGrid-01F1"
+  },
+  {
+    "id": 10,
+    "width": 200,
+    "height": 1050,
+    "count": 1,
+    "material": null,
+    "enabled": true,
+    "orientation": 1,
+    "label": "Top Panel",
+    "edge": { "top": null, "left": null, "bottom": null, "right": null },
+    "$$hashKey": "uiGrid-01F3"
+  },
+  {
+    "id": 11,
+    "width": 200,
+    "height": 510,
+    "count": 1,
+    "material": null,
+    "enabled": true,
+    "orientation": 1,
+    "label": "Top Panel",
+    "edge": { "top": null, "left": null, "bottom": null, "right": null },
+    "$$hashKey": "uiGrid-01F5"
+  },
+  {
+    "id": 12,
+    "width": 412,
+    "height": 2328,
+    "count": 2,
+    "material": null,
+    "enabled": true,
+    "orientation": 2,
+    "label": "Door",
+    "edge": {
+      "top": null,
+      "left": "2mm maidenwood edging",
+      "bottom": null,
+      "right": null
+    },
+    "$$hashKey": "uiGrid-01F7"
+  },
+  {
+    "id": 13,
+    "width": 100,
+    "height": 868,
+    "count": 1,
+    "material": null,
+    "enabled": true,
+    "orientation": 1,
+    "label": "Pelmet",
+    "edge": {
+      "top": "1mm maidenwood edging",
+      "left": "1mm maidenwood edging",
+      "bottom": "1mm maidenwood edging",
+      "right": null
+    },
+    "$$hashKey": "uiGrid-01F9"
+  },
+  {
+    "id": 14,
+    "width": 100,
+    "height": 2750,
+    "count": 2,
+    "material": null,
+    "enabled": true,
+    "orientation": 1,
+    "label": "Side",
+    "edge": { "top": null, "left": null, "bottom": null, "right": null },
+    "$$hashKey": "uiGrid-01FB"
+  },
+  {
+    "width": null,
+    "height": null,
+    "count": null,
+    "enabled": true,
+    "id": 15,
+    "orientation": 0,
+    "edge": { "top": null, "bottom": null, "left": null, "right": null },
+    "material": null,
+    "$$hashKey": "uiGrid-01FD"
+  }
+]
